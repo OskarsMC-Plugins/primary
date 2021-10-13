@@ -1,3 +1,3 @@
-![Github Workflow Status](https://img.shields.io/github/workflow/status/OskarsMC-Plugins/primary/ci/main) [![MIT License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 # primary
 OskarsMC Common Library
