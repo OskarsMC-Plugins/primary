@@ -44,7 +44,7 @@ dependencies {
     testRuntimeOnly("net.kyori:adventure-text-serializer-gson:4.9.3")
 
     implementation("net.kyori:adventure-api:4.9.3")
-    implementation("net.kyori:adventure-text-serializer-plain:4.9.2")
+    implementation("net.kyori:adventure-text-serializer-plain:4.9.3")
 }
 
 tasks.getByName<Test>("test") {
