@@ -43,7 +43,7 @@ dependencies {
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.8.1")
     testRuntimeOnly("net.kyori:adventure-text-serializer-gson:4.9.3")
 
-    implementation("net.kyori:adventure-api:4.9.3")
+    implementation("net.kyori:adventure-api:4.10.0")
     implementation("net.kyori:adventure-text-serializer-plain:4.9.3")
 }
 
